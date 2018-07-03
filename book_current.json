@@ -1,0 +1,19 @@
+{
+  "title": "最流行的文档格式：Markdown",
+  "description": "总计目前最流行的编写文档所用的语法格式：Markdown，包括markdown的简介、基本语法和举例、相关心得和常见的坑、各种相关工具和软件、以及具体的应用领域等等。",
+  "pluginsConfig": {
+    "github-buttons": {
+      "buttons": [
+        {
+          "repo": "doc_format_markdown"
+        }
+      ]
+    },
+    "sitemap-general": {
+      "prefix": "https://book.crifan.com/gitbook/doc_format_markdown/website/"
+    },
+    "toolbar-button": {
+      "url": "http://book.crifan.com/books/doc_format_markdown/pdf/doc_format_markdown.pdf"
+    }
+  }
+}
