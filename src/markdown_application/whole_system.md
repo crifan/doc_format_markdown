@@ -6,7 +6,6 @@
 
 ## 用markdown搭建wiki系统
 
-
 jekyll wiki
 
 [How do I let users log into my RESTful API? - The RESTful cookbook](http://restcookbook.com/Basics/loggingin/)
@@ -21,7 +20,7 @@ jekyll wiki
 
 -》
 
-[Jekyll \(software\) - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Jekyll_(software))
+[Jekyll \(software\) - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Jekyll_\(software\))
 
 一套Ruby写的wiki博客系统。
 
@@ -48,4 +47,3 @@ jekyll wiki 系统
 > gollum直接和git集成不需要数据库，你可以选择在Web页面撰写文档，也可以用你喜欢的markdown工具编辑文档在命令行进行提交，用来搭建自己的知识管理wiki系统。 “markdown+git = wiki” 这对程序员来讲绝对是最优(zhe)雅(teng)的方式。
 > 
 > 类似于博客系统jekyll和hexo的功能。写博客与写wiki的区别是，前者在于创作，后者在于对知识的整理，非原创的文章适合使用wiki来整理归档。
-
