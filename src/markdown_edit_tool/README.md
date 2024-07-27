@@ -4,7 +4,10 @@
 
 比如：
 
-* `VSCode`
+* [VSCode](https://book.crifan.org/books/best_editor_vscode/website/plugin/common_plugins/markdown/)
+  * 不错的插件
+    * [Markdown Preview Enhanced](https://book.crifan.org/books/best_editor_vscode/website/plugin/common_plugins/markdown/markdown_preview_enhanced.html)
+    * [Markdown All in One](https://book.crifan.org/books/best_editor_vscode/website/plugin/common_plugins/markdown/markdown_all_in_one.html)
 * `Sublime`
 * `Atom`
 

@@ -1,6 +1,6 @@
 {
-  "latestVersion": "v1.0",
-  "lastUpdate": "20190530",
+  "latestVersion": "v1.1.0",
+  "lastUpdate": "20240727",
   "gitRepoName": "doc_format_markdown",
   "bookName": "最流行的文档格式：Markdown",
   "bookDescription": "总结目前最流行的编写文档所用的语法格式：`Markdown`，包括markdown的简介、基本语法和举例、相关心得和常见的坑、各种相关工具和软件、以及具体的应用领域等等。"
